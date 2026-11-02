@@ -1,0 +1,14 @@
+*.dll
+*.exe
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+*.bak
+*.zip
+.vs/
+build/
+settings.txt
+config.ftg
